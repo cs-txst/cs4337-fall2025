@@ -1,4 +1,4 @@
-# Repository of code examples given in TXST CS 4337 - Fall 2025
+# Repository of code examples given in TXST CS 4337 - Intro to Computer Vision - Fall 2025
 
 
 
